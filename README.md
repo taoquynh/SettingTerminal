@@ -19,3 +19,5 @@ sh -c "$(curl -fsSL https://raw.github.com/robbyrussell/oh-my-zsh/master/tools/i
 ```
 
 ## Thay đổi theme
+https://github.com/ohmyzsh/ohmyzsh/wiki/Themes
+- Để thay đổi theme, edit file ~/.zshrc sửa dòng ZSH_THEME="avit", trong ngoặc kép là tên theme
