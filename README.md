@@ -6,7 +6,15 @@
 ```
 /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install.sh)"
 ```
+# Cài đặt Homebrew cho M1
 
+## Cài đặt Homebrew
+```
+/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install.sh)"
+```
+
+
+# Cấu hình chung (tiếp)
 ## Cài đặt ZSH
 ```
 brew install zsh
@@ -16,14 +24,6 @@ brew install zsh
 ```
 cd
 sh -c "$(curl -fsSL https://raw.github.com/robbyrussell/oh-my-zsh/master/tools/install.sh)"
-```
-
-
-# Cài đặt Homebrew cho M1
-
-## Cài đặt Homebrew
-```
-/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install.sh)"
 ```
 
 ## Tạo file .zshrc (nếu chưa có)
